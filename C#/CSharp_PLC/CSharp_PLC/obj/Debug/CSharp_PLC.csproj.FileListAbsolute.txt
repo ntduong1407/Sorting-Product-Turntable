@@ -1,0 +1,61 @@
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.exe.config
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.exe
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.pdb
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\bin\Debug\NetToolKit.dll
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\bin\Debug\S7.Net.dll
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\bin\Debug\SKCLNET.dll
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\bin\Debug\SymbolFactoryDotNet.dll
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\bin\Debug\SymbolFactoryNetEngine.dll
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\bin\Debug\S7.Net.xml
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.Form1.resources
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.Properties.Resources.resources
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.CopyComplete
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.exe
+C:\Users\Dell\source\repos\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.pdb
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.exe.config
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.exe
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.pdb
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\NetToolKit.dll
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\S7.Net.dll
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\SKCLNET.dll
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\SymbolFactoryDotNet.dll
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\SymbolFactoryNetEngine.dll
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\S7.Net.xml
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csprojAssemblyReference.cache
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.Form1.resources
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.Properties.Resources.resources
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.GenerateResource.cache
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.CoreCompileInputs.cache
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.CopyComplete
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.exe
+E:\DoLuong DK BangMayTinh\BaiTap\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.pdb
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.exe.config
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.exe
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.pdb
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\S7.Net.dll
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\S7.Net.xml
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.AssemblyReference.cache
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.SuggestedBindingRedirects.cache
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.Form1.resources
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.Properties.Resources.resources
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.GenerateResource.cache
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.CoreCompileInputs.cache
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.CopyComplete
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.exe
+D:\Download\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.pdb
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.exe.config
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.exe
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\CSharp_PLC.pdb
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\S7.Net.dll
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\bin\Debug\S7.Net.xml
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.AssemblyReference.cache
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.Form1.resources
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.Properties.Resources.resources
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.GenerateResource.cache
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.CoreCompileInputs.cache
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.csproj.Up2Date
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.exe
+C:\Users\DUONG\Downloads\BT\BC_BT_DLMT\Phân loại\BTC#_PLC_Turntable\C#\CSharp_PLC\CSharp_PLC\obj\Debug\CSharp_PLC.pdb

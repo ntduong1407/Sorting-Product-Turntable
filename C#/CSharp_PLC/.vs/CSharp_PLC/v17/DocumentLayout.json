@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DUONG\\Downloads\\BT\\BC_BT_DLMT\\Ph\u00E2n lo\u1EA1i\\BTC#_PLC_Turntable\\C#\\CSharp_PLC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A9BCF6-A93D-4A45-A4DC-36A633A1FDD6}|CSharp_PLC\\CSharp_PLC.csproj|C:\\Users\\DUONG\\Downloads\\BT\\BC_BT_DLMT\\Ph\u00E2n lo\u1EA1i\\BTC#_PLC_Turntable\\C#\\CSharp_PLC\\csharp_plc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A9BCF6-A93D-4A45-A4DC-36A633A1FDD6}|CSharp_PLC\\CSharp_PLC.csproj|solutionrelative:csharp_plc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A9BCF6-A93D-4A45-A4DC-36A633A1FDD6}|CSharp_PLC\\CSharp_PLC.csproj|c:\\users\\duong\\downloads\\bt\\bc_bt_dlmt\\ph\u00E2n lo\u1EA1i\\btc#_plc_turntable\\c#\\csharp_plc\\csharp_plc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9A9BCF6-A93D-4A45-A4DC-36A633A1FDD6}|CSharp_PLC\\CSharp_PLC.csproj|solutionrelative:csharp_plc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A9BCF6-A93D-4A45-A4DC-36A633A1FDD6}|CSharp_PLC\\CSharp_PLC.csproj|C:\\Users\\DUONG\\Downloads\\BT\\BC_BT_DLMT\\Ph\u00E2n lo\u1EA1i\\BTC#_PLC_Turntable\\C#\\CSharp_PLC\\csharp_plc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A9BCF6-A93D-4A45-A4DC-36A633A1FDD6}|CSharp_PLC\\CSharp_PLC.csproj|solutionrelative:csharp_plc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DUONG\\Downloads\\BT\\BC_BT_DLMT\\Ph\u00E2n lo\u1EA1i\\BTC#_PLC_Turntable\\C#\\CSharp_PLC\\CSharp_PLC\\Form1.cs",
+              "RelativeDocumentMoniker": "CSharp_PLC\\Form1.cs",
+              "ToolTip": "C:\\Users\\DUONG\\Downloads\\BT\\BC_BT_DLMT\\Ph\u00E2n lo\u1EA1i\\BTC#_PLC_Turntable\\C#\\CSharp_PLC\\CSharp_PLC\\Form1.cs*",
+              "RelativeToolTip": "CSharp_PLC\\Form1.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:30:20.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DUONG\\Downloads\\BT\\BC_BT_DLMT\\Ph\u00E2n lo\u1EA1i\\BTC#_PLC_Turntable\\C#\\CSharp_PLC\\CSharp_PLC\\Form1.cs",
+              "RelativeDocumentMoniker": "CSharp_PLC\\Form1.cs",
+              "ToolTip": "C:\\Users\\DUONG\\Downloads\\BT\\BC_BT_DLMT\\Ph\u00E2n lo\u1EA1i\\BTC#_PLC_Turntable\\C#\\CSharp_PLC\\CSharp_PLC\\Form1.cs [Design]*",
+              "RelativeToolTip": "CSharp_PLC\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:30:21.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DUONG\\Downloads\\BT\\BC_BT_DLMT\\Ph\u00E2n lo\u1EA1i\\BTC#_PLC_Turntable\\C#\\CSharp_PLC\\CSharp_PLC\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp_PLC\\Program.cs",
+              "ToolTip": "C:\\Users\\DUONG\\Downloads\\BT\\BC_BT_DLMT\\Ph\u00E2n lo\u1EA1i\\BTC#_PLC_Turntable\\C#\\CSharp_PLC\\CSharp_PLC\\Program.cs",
+              "RelativeToolTip": "CSharp_PLC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:30:22.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
